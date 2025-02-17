@@ -1,0 +1,2 @@
+ef1dbe9
+Utilice git reset --soft HEAD~1 porque permite deshacer el ultimo commit sin perder archivos
